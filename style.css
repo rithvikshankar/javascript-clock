@@ -110,7 +110,8 @@ body {
 
   .card {
     margin: 0.5rem 0;
-    font-size: 1.5rem;
+    padding: 0.8rem;
+    font-size: 2rem;
     box-shadow: 3px 3px 4px rgba(255, 255, 255, 0.1),
       -3px -3px 5px rgba(0, 0, 0, 0.4);
   }
@@ -120,6 +121,6 @@ body {
   }
 
   .colon-box {
-    font-size: 1.5rem;
+    font-size: 2rem;
   }
 }
