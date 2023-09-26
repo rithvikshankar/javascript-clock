@@ -1,5 +1,3 @@
-// let heading = document.getElementById('heading');
-
 const updateClock = () => {
   let now = new Date();
   let hours = now.getHours()
