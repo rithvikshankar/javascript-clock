@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: "Quicksand", sans-serif;
+}
+
+.heading-box {
+  margin-bottom: 3rem;
+}
+
+.heading-box h1 {
+  text-align: center;
+}
+
+.time-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  border: 1px solid green;
+}
+
+.card {
+  width: 15rem;
+  padding: 1rem;
+  border: 1px solid black;
+  margin: 0 1rem;
+  font-size: 8rem;
+  border-radius: 1.2rem;
+  text-align: center;
+}
